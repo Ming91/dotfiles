@@ -88,9 +88,9 @@
           "type": "status"
         },
         {
-          "foreground": "#CC4B16",
+          "foreground": "red",
           "style": "plain",
-          "template": "\u279c ",
+          "template": " → ",
           "type": "text"
         }
       ],
