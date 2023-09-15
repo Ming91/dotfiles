@@ -90,7 +90,7 @@
         {
           "_foreground": "red",
           "style": "plain",
-          "template": "<red>-></red>",
+          "template": "<#CB4B16>\u2192</#CB4B16>",
           "type": "text"
         }
       ],
