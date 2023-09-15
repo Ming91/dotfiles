@@ -90,7 +90,7 @@
         {
           "foreground": "red",
           "style": "plain",
-          "template": "<red>→ </red>",
+          "template": "<red>\u2192→ </red>",
           "type": "text"
         }
       ],
