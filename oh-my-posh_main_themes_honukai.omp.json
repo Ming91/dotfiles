@@ -90,7 +90,7 @@
         {
           "foreground": "red",
           "style": "plain",
-          "template": " → ",
+          "template": "<red>→ </red>",
           "type": "text"
         }
       ],
